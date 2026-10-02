@@ -1,0 +1,13 @@
+2323;board game;strategy;Monopoly;100.0;109;23.2;34
+6723;board game;strategy;Galactic Dominion;55.0;15;30.0;5
+5201;board game;strategy;Kingdoms of Valor;45.0;20;25.0;4
+8251;board game;party;Mystery Mansion;32.0;21;18.0;6
+2456;board game;strategy;Cluedo;30.0;20;23.0;6
+1908;board game;party;Quick Draw Chaos;25.0;21;12.0;8
+4935;accessory;accessory kit;Tactical Grid Playmat;22.0;30;10.0;Universal
+7412;accessory;accessory kit;Mystic Realm Playmat;20.0;40;8.0;Universal
+2039;accessory;miniature;Space Commander Figure;18.0;13;7.0;Warhammer 40K
+7125;accessory;miniature;Ancient Warrior Model;15.0;28;6.0;Ancient Battles
+7381;accessory;dice;7-piece Polyhedral Dice Set;12.0;50;5.0;Dungeons & Dragons
+2674;accessory;dice;Metal D20 Collector Die;9.0;60;3.5;Universal
+2000;board game;party;Uno;8.5;0;5.0;20

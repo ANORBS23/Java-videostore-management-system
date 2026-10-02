@@ -1,0 +1,10 @@
+bin/
+.metadata/
+.settings/
+*.class
+.classpath
+.project
+*.jar
+UserAccounts.txt
+Class Diagram.pdf
+NotCompleted.pdf
